@@ -2,6 +2,7 @@
 Contributors: Trustloud
 Tags: openai, text generation, mycred, points, ajax, api
 Requires at least: 5.6
+plugin URI: https://www.trustloud.com
 Tested up to: 6.3
 Requires PHP: 7.4
 Stable tag: 1.0.0
